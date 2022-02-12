@@ -1,0 +1,2 @@
+# GWS
+Great Wordle Solver
